@@ -2,7 +2,7 @@
 This is a 2D game. There is a hunter who hunts ducks. Hunters face different obstacles like lions, eagles birds. This project was built using C language and IGraphics of Visual Studio 2013. It is fist year second semester project.
 
 # Language and Tools
-1. C Language
+1. C++ Language
 
 2. I-Graphics
 
