@@ -27,7 +27,7 @@ This is a 2D game. There is a hunter who hunts ducks. Hunters face different obs
 
 ![Alt text](cp.bmp)
 
-![Alt text](1ft.jpg)  
+![Alt text](1ft.JPG)  
 
 ![Alt text](Capture.jpg)   
 ![Alt text](jkj.jpg)   
